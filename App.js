@@ -25,7 +25,7 @@ const AddButton = ({onPress}) => {
       onPress={onPress}
       activeOpacity={0.6}
     >
-      <Text style={styles.buttonText}> Add Todo </Text>
+      <Text style={styles.buttonText}> Add New Todo </Text>
     </TouchableOpacity>
   )  
 };
